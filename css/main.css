@@ -65,8 +65,15 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+body {
+	background: #212121;
+	color: #ccc;
+	text-align. center;
+}
 
-
+h1 {
+	color: #fff;
+}
 
 
 
